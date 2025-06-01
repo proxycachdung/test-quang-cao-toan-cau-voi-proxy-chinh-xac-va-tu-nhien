@@ -8,7 +8,7 @@ Bạn đã từng cảm thấy chiến dịch quảng cáo toàn cầu của mì
 
 Proxy giống như một “người trung gian” giữa thiết bị của bạn và internet. Thay vì kết nối trực tiếp, dữ liệu của bạn sẽ đi qua một địa chỉ IP khác, thường từ một khu vực địa lý khác. Điều này cực kỳ hữu ích nếu bạn muốn “xem” internet như thể bạn đang ở một quốc gia khác.
 
-Có nhiều loại proxy khác nhau, như datacenter, mobile, **[proxy residential](https://9proxy.com/residential-proxy?utm_source=web20&utm_id=SEOjonni123)**... nhưng với các chiến dịch quảng cáo cần kiểm thử thực tế, thì **proxy dân cư** mới là chuẩn mực.
+Có nhiều loại proxy khác nhau, như datacenter, mobile, **[proxy residential](https://9proxy.com?utm_source=web20&utm_id=SEOjonni123)**... nhưng với các chiến dịch quảng cáo cần kiểm thử thực tế, thì **proxy dân cư** mới là chuẩn mực.
 
 ![image](https://github.com/user-attachments/assets/3d42dfab-56c6-4e8a-842a-e6dfc0a6fb60)
 
@@ -26,7 +26,7 @@ Khi tôi chạy song song chiến dịch tại Đông Nam Á và Tây Âu, proxy
 
 ## Chọn proxy để test quảng cáo toàn cầu như thế nào?
 
-Dưới đây là **[checklist chọn proxy](https://9proxy.com/features?utm_source=web20&utm_id=SEOjonni123)** mà tôi luôn dùng:
+Dưới đây là **[checklist chọn proxy](https://9proxy.com?utm_source=web20&utm_id=SEOjonni123)** mà tôi luôn dùng:
 
 - **Phủ sóng quốc tế** – Có IP tại các khu vực mà tôi đang nhắm đến?  
 - **Tần suất xoay IP** – Có thể thay đổi IP theo từng request hay từng session không?  
